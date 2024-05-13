@@ -1,0 +1,6 @@
+[submodule "django-backend"]
+	path = django-backend
+	url = https://github.com/bingual/django-5.0.git
+[submodule "nextjs-frontend"]
+	path = nextjs-frontend
+	url = https://github.com/bingual/nextjs-14.0.git
